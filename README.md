@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Version Control
 
 ![Project Banner](https://your-image-url.com) <!-- Replace with your own banner or remove -->
 
@@ -54,9 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-- **Your Name** - [LinkedIn](https://linkedin.com/in/yourprofile) - [Twitter](https://twitter.com/yourhandle)
+- Yash Kalamkar  - [LinkedIn](https://linkedin.com/in/yourprofile) - [Twitter](https://twitter.com/yourhandle)
 - Project Repository: [GitHub](https://github.com/yourusername/yourproject)
 
----
 
-⭐ If you like this project, give it a star on GitHub!
